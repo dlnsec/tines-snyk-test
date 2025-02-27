@@ -1,1 +1,1 @@
-# tines-snyk-test
+# snyk-kotlin-demo
